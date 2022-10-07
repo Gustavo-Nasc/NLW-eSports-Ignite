@@ -7,7 +7,7 @@ import {
   Montserrat_900Black,
 } from "@expo-google-fonts/montserrat"
 
-import { Home } from "./src/screens/Home/index"
+import { Routes } from './src/routes';
 import { Background } from "./src/components/Background/index";
 import { Loading } from "./src/components/Loading/index";
 import React from "react";
@@ -27,7 +27,7 @@ export default function App() {
         backgroundColor="transparent"
         translucent
       />
-      {fontsLoaded ? <Home /> : <Loading />}
+      {fontsLoaded ? <Routes /> : <Loading />}
     </Background>
   );
 }
