@@ -1,22 +1,23 @@
-# NLW eSports - Trilha Ignite
-
-<div align="center">
-    <img src="./.github/preview.png" width="80%">
-</div>
-
----
+# NLW eSports - Trilha Ignite (Mobile)
 
 ## 🚀 Tecnologias
 - [ReactJS](https://pt-br.reactjs.org), construído com [Vite](https://vitejs.dev)
 - [React Native](https://reactnative.dev), construído com [Expo](https://expo.dev)
 - [Node.js](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org)
-- [Yarn](https://yarnpkg.com)
+- [NPM](https://www.npmjs.com)
+- [TailWind](https://tailwindcss.com)
+- [PostCSS](https://postcss.org)
+- [Expo](https://expo.dev)
 
 ---
 
 ## ⚙ Ferramentas e Dependências
-- [Express](https://expressjs.com)
+- [phosphor-react](https://www.npmjs.com/package/phosphor-react)
+- [@radix-ui](https://www.radix-ui.com)
+- [axios](https://axios-http.com/ptbr/)
+- [phosphor-react-native](https://www.npmjs.com/package/phosphor-react-native)
+- [ts-node/ts-node-dev](https://www.npmjs.com/package/ts-node)
 
 ### 👨‍💻 Dependências de Desenvolvimento
 - [TS-Node-Dev](https://yarnpkg.com/package/ts-node-dev)
