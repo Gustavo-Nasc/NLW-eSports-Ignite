@@ -1,4 +1,4 @@
-# NLW eSports - Trilha Ignite (Server)
+# NLW eSports - Trilha Ignite (Mobile)
 
 ## 🚀 Tecnologias
 - [Typescript](https://www.typescriptlang.org)

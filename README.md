@@ -1,4 +1,8 @@
-# NLW eSports - Trilha Ignite (Mobile)
+# NLW eSports - Trilha Ignite
+
+<div align="center">
+    <img src="./.github/preview.png" width="80%" />
+</div>
 
 ## 🚀 Tecnologias
 - [ReactJS](https://pt-br.reactjs.org), construído com [Vite](https://vitejs.dev)
